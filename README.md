@@ -2,7 +2,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Hassan Rasool</h1>
-<h3 align="center">A passionate frontend developer from Pakistan</h3>
+<h2 align="center">A passionate frontend developer from Pakistan</h2>
 <img align="right" alt="Coding" width="400" src="https://th.bing.com/th/id/R.81178b47a8598f0c81c4799f2cdd4057?rik=5cuVK%2bfI%2bsPqqw&pid=ImgRaw&r=0">
 
 
